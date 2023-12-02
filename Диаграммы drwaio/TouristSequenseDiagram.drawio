@@ -1,0 +1,300 @@
+<mxfile host="Electron" modified="2023-11-10T12:01:26.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="N1KtoW_L25s9erapKqhN" version="22.0.3" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1884" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="Администратор&lt;br&gt;(Россия)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="250" y="60" width="100" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="50" y="420" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Администратор&lt;br&gt;(Зарубежный)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="540" y="60" width="100" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
+          <mxGeometry x="-240" y="660" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
+          <mxGeometry x="45" y="620" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-41" value="отправка данных для регестрации на рейс" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="aM9ryv3xv72pqoxQDRHE-5" target="bHfFdbvjbziyMw19bAwN-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-235" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-42" value="возврат информации о подобранном рейсе" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="aM9ryv3xv72pqoxQDRHE-5" source="bHfFdbvjbziyMw19bAwN-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-235" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-140" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-43" value="запрос удобнго диапазона времени" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="aM9ryv3xv72pqoxQDRHE-5" source="bHfFdbvjbziyMw19bAwN-40" target="bHfFdbvjbziyMw19bAwN-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-155" y="660" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-140" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-44" value="возврат данных" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="aM9ryv3xv72pqoxQDRHE-5" source="bHfFdbvjbziyMw19bAwN-39" target="bHfFdbvjbziyMw19bAwN-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-155" y="735" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="отправка данных на визу" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="390" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-8" value="возврат статуса оформления" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="запрос на данные о выбранных гостиницах" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="180" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-10" value="возврат данных" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-4" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-1" value="Менеджер Экскурсий" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="690" y="60" width="100" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bHfFdbvjbziyMw19bAwN-1" vertex="1">
+          <mxGeometry x="45" y="280" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="310" as="sourcePoint" />
+            <mxPoint x="150" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-5" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Time&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bHfFdbvjbziyMw19bAwN-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.0742" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-6" value="Tourist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry y="60" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="запрос на оформление" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-6" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="170" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-8" value="Менеджер склада" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="840" y="60" width="100" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bHfFdbvjbziyMw19bAwN-8" vertex="1">
+          <mxGeometry x="45" y="380" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-13" value="отправка данных о выбранных экскурсиях" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="340" />
+            </Array>
+            <mxPoint x="735" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-15" value="возврат необходимой инормации" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="160" />
+            </Array>
+            <mxPoint x="220" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-16" value="Менеджер&lt;br&gt;перелётов" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1000" y="60" width="100" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bHfFdbvjbziyMw19bAwN-16" vertex="1">
+          <mxGeometry x="45" y="580" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-18" value="Финансовый отдел" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1160" y="60" width="100" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bHfFdbvjbziyMw19bAwN-18" vertex="1">
+          <mxGeometry x="45" y="160" width="10" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-2" target="bHfFdbvjbziyMw19bAwN-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="440" as="sourcePoint" />
+            <mxPoint x="1130" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-22" value="" style="shape=message;html=1;outlineConnect=0;" parent="bHfFdbvjbziyMw19bAwN-21" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-23" value="возврат информации о экскурсиях" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-2" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="545" y="400" />
+            </Array>
+            <mxPoint x="730" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="bHfFdbvjbziyMw19bAwN-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="218.67" as="sourcePoint" />
+            <mxPoint x="1210" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-25" value="" style="shape=message;html=1;outlineConnect=0;" parent="bHfFdbvjbziyMw19bAwN-24" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-26" value="отправка данных о перевозимых грузах" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="bHfFdbvjbziyMw19bAwN-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="440" />
+            </Array>
+            <mxPoint x="745" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-29" value="запрос на подтверждение ведомости" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-9" target="bHfFdbvjbziyMw19bAwN-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-30" value="возврат ответа" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-28" target="bHfFdbvjbziyMw19bAwN-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-34" value="возврат информации о грузе" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-9" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="610" />
+            </Array>
+            <mxPoint x="880" y="610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-35" value="отправка данных о грузах" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-9" target="bHfFdbvjbziyMw19bAwN-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="640" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1005" y="640" />
+            </Array>
+            <mxPoint x="1040" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-37" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-9" target="bHfFdbvjbziyMw19bAwN-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="380" as="sourcePoint" />
+            <mxPoint x="1200" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-38" value="" style="shape=message;html=1;outlineConnect=0;" parent="bHfFdbvjbziyMw19bAwN-37" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-47" value="отправка данных для оформление на рейс" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="bHfFdbvjbziyMw19bAwN-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="740" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="685" y="740" />
+            </Array>
+            <mxPoint x="1040" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-50" value="возврат статуса оформления на рейс" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-17" target="bHfFdbvjbziyMw19bAwN-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="800" />
+            </Array>
+            <mxPoint x="1040" y="800" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-51" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-17" target="bHfFdbvjbziyMw19bAwN-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905" y="550" as="sourcePoint" />
+            <mxPoint x="1200" y="725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-52" value="" style="shape=message;html=1;outlineConnect=0;" parent="bHfFdbvjbziyMw19bAwN-51" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-53" value="Головная&amp;nbsp;&lt;br&gt;компания" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1300" y="60" width="100" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bHfFdbvjbziyMw19bAwN-53" vertex="1">
+          <mxGeometry x="45" y="770" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-57" value="Финансовый отчёт" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-19" target="bHfFdbvjbziyMw19bAwN-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="800" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1300" y="840" />
+            </Array>
+            <mxPoint x="1700" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHfFdbvjbziyMw19bAwN-59" value="возврат информации об общей стоимости всего тура" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="bHfFdbvjbziyMw19bAwN-53" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1145" y="930" />
+            </Array>
+            <mxPoint x="1330" y="930" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
