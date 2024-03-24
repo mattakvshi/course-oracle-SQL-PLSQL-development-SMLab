@@ -7,3 +7,11 @@
  Код базы со всеми таблицами, триггерами, джобами, и вставками можно посмотреть [тут.](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/db.sql)
 
 ER-диаграмма построенная в sqldatamodeler: [тык.](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/TouristER_1.pdf)
+
+## Диаграммы: 
+
+![ER-diagram](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/Диаграммы%20png/TouristER5.0.png)
+![UseCase](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/Диаграммы%20png/TouristUseCase.png)
+![Sequense](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/Диаграммы%20png/TouristSequenseDiagram.png)
+![BPMN-diagram](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/Диаграммы%20png/TouristBPMP.png)
+![BlackBox](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/Диаграммы%20png/Чёрный%20квадрат%20.png)
