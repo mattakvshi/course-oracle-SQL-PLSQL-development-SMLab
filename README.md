@@ -10,8 +10,17 @@ ER-диаграмма построенная в sqldatamodeler: [тык.](https:
 
 ## Диаграммы: 
 
+### ER-diagram
 ![ER-diagram](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/Диаграммы%20png/TouristER5.0.png)
+
+### UseCase-diagram
 ![UseCase](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/Диаграммы%20png/TouristUseCase.png)
+
+### Sequense-diagram
 ![Sequense](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/Диаграммы%20png/TouristSequenseDiagram.png)
+
+### BPNM-diagram
 ![BPMN-diagram](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/Диаграммы%20png/TouristBPMP.png)
+
+### BlackBox-diagram
 ![BlackBox](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab/blob/master/Диаграммы%20png/Чёрный%20квадрат%20.png)
