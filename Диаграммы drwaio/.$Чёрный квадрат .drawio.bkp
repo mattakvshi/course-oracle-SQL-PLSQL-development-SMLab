@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2024-02-05T09:29:05.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="aR9VWcvJxrNlwEba1SV2" version="22.1.2" type="device">
+  <diagram name="Страница — 1" id="8nF_fvhMlu_nRgc1gzC9">
+    <mxGraphModel dx="1690" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF4C2B;fillColor=#D2D2D2;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="20" width="910" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2F3A47;strokeWidth=2;" edge="1" parent="1" source="7cRb9sfsrWvueWKUVCC2-8" target="7cRb9sfsrWvueWKUVCC2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-8" value="&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#0a1f32&quot;&gt;Паспортные данные, выбранные экскурсии, ввыбранная гостиница, выбранный тур&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="315" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-9" value="&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#0a1f32&quot;&gt;Виза, информация о расселении по гостиницам, информация о рельсах, экскурсиях, грузах&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="315" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#2F3A47;" edge="1" parent="1" source="7cRb9sfsrWvueWKUVCC2-19" target="7cRb9sfsrWvueWKUVCC2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D2D2D2;strokeColor=#2F3A47;strokeWidth=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="250" width="285" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-3" value="&lt;font color=&quot;#0a1f32&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Бронирование тура&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#2F3A47;" edge="1" parent="1" source="7cRb9sfsrWvueWKUVCC2-25" target="7cRb9sfsrWvueWKUVCC2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-25" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#0a1f32&quot;&gt;Менеджер&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-26" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#0a1f32&quot;&gt;Финансовый отдел&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="500" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-27" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#0a1f32&quot;&gt;Турист&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.132;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#2F3A47;" edge="1" parent="1" source="7cRb9sfsrWvueWKUVCC2-27" target="7cRb9sfsrWvueWKUVCC2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.92;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#2F3A47;strokeWidth=2;" edge="1" parent="1" source="7cRb9sfsrWvueWKUVCC2-26" target="7cRb9sfsrWvueWKUVCC2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-32" value="&lt;font color=&quot;#0a1f32&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Информация о&lt;br&gt;гостиницах&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-33" value="&lt;font color=&quot;#0a1f32&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Информация о&lt;br&gt;рейсах&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-34" value="&lt;font color=&quot;#0a1f32&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Информация о&lt;br&gt;экскурсиях&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-35" value="&lt;font color=&quot;#0a1f32&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Информация о&lt;br&gt;складе&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cRb9sfsrWvueWKUVCC2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.168;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7cRb9sfsrWvueWKUVCC2-33" target="7cRb9sfsrWvueWKUVCC2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
